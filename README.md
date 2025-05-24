@@ -8,8 +8,6 @@ A **Multi-client Group Chat Application** using **Java GUI**, **Sockets**, and *
 
 ## 📸 Preview
 
-> _(Add screenshots here — replace with your actual image paths)_
-
 | Server Console | Client GUI |
 |----------------|------------|
 | ![Server Screenshot](screenshots/server.png) | ![Client Screenshot](screenshots/client.png) |
@@ -115,9 +113,7 @@ S --> B
 ---
 
 ## 🙋‍♂️ Author
-
-HenryTech
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?logo=github)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?logo=github)] HenryTech12 
 📧 fakorodehenry@gmail.com
 
 ---
