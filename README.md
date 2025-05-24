@@ -113,8 +113,9 @@ S --> B
 ---
 
 ## 🙋‍♂️ Author
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?logo=github)] HenryTech12 
-📧 fakorodehenry@gmail.com
+- [![GitHub](https://img.shields.io/badge/GitHub-HenryTech12-black?logo=github)] [HenryTech12](https://github.com/HenryTech12/)
+- 📧 fakorodehenry@gmail.com
+
 
 ---
 
