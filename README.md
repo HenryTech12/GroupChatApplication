@@ -42,9 +42,9 @@ A **Multi-client Group Chat Application** using **Java GUI**, **Sockets**, and *
 ```plaintext
 /GroupChatApp
 │
-├── Server.java         // The server that listens for client connections
-├── Client.java         // The GUI-based client application
-├── ClientHandler.java  // Thread handler for each client
+├── ChatServer.java         // The server that listens for client connections
+├── ChatClient.java         // The GUI-based client application
+├── ClientThread.java  // Thread handler for each client
 ├── screenshots/        // Screenshots for README
 └── README.md           // Documentation
 ```
@@ -61,8 +61,8 @@ A **Multi-client Group Chat Application** using **Java GUI**, **Sockets**, and *
 ### 🔌 Step 1: Start the Server
 
 ```bash
-javac Server.java
-java Server
+javac ChatServer.java
+java ChatServer
 ```
 
 You should see:  
@@ -73,8 +73,8 @@ You should see:
 Open multiple terminals or run in multiple windows:
 
 ```bash
-javac Client.java
-java Client
+javac ChatClient.java
+java ChatClient
 ```
 
 Each client will be prompted for a username and will launch the chat window.
@@ -122,7 +122,7 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
+HenryTech
 [![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?logo=github)](https://github.com/yourusername)  
 📧 your.email@example.com
 
