@@ -124,7 +124,7 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 
 HenryTech
 [![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?logo=github)](https://github.com/yourusername)  
-📧 your.email@example.com
+📧 fakorodehenry@gmail.com
 
 ---
 
